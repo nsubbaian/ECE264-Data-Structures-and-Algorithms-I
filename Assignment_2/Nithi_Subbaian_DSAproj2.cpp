@@ -1,5 +1,3 @@
-// THIS IS THE PROVIDED CODE FOR PROGRAM #2, DSA 1, SPRING 2018
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
