@@ -3,9 +3,8 @@
 Teacher's webpage: http://faculty.cooper.edu/sable2/
 
 ## Assignment 1:
-Stacks and Queues!
-
+Brief Overview of Assignment (more information in folder):
 
 ## Assignment 2:
-Sorting!
+Brief Overview of Assignment (more information in folder):
 
